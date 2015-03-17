@@ -1,1 +1,7 @@
 # What does Hive NYC do?
+
+Hive NYC actively supports an open source, laboratory-approach to learning. By creating opportunities for experimentation and professional development, our programs enable people to discover engaging, productive learning experiences. We build, test, iterate and spread real solutions to specific challenges in education, work and civic contexts. You can see an overview of Hive NYC projects in the [portfolio](http://hivenyc.org/portfolio).
+
+As part of its mission to promote openness, opportunity and innovation, Mozilla shepherds Hive Learning Networks as a global community of educators and mentors empowering each other to learn, teach and make the web. Hive NYC acts as a local delivery mechanism for this ambitious movement, making and testing tools and practices in collaboration with stakeholders throughout the city. As the flagship program in the Hive learning networks ecosystem, Hive NYC is a model for others hoping to build similar communities of practice around connected learning and web literacy in cities across the United States and beyond.
+
+In practical terms, Hive members have access to a range of services and supports, including various communication channels, Mozilla’s educational technology products and expertise, technical and social platforms that advance collective learning and innovation, supported routes to funding options, brokered connections to fellow organizations, dedicated consultation and more.
