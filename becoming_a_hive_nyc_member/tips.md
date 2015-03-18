@@ -20,4 +20,4 @@ As with any community, our learning network is strongest when a diversity of sta
 * Make themselves available/ discoverable to other members
 * Suggest and pilot ambitious programs
 
-Contribution to Hive is strongest (and return on investment most beneficial for everyone) when there is an alignment between your organizational/ individual priorities, local context, funding prerogatives and the network’s shared vision.
+Contribution to Hive is strongest (and return on investment most beneficial for everyone) when there is an alignment between your organizational/ individual priorities, local context, funding prerogatives and the network's shared vision.

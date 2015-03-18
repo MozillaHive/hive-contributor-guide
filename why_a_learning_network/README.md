@@ -1,6 +1,5 @@
-# Why a Learning Network?
-
 ![Hive Learning Networks](../images/hive-header.png)
+# Why a Learning Network?
 
 A **network for learning**: *Hive programs provide youth with opportunities to learn valued skills through productive experiences that are stimulated by their interests.*
 

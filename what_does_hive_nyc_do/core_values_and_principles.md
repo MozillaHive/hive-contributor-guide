@@ -25,7 +25,7 @@ In the development and practice of their programs and partnerships, Hive partici
 * Work open, preserving interoperability and distributed access to resources
 * Learn together—as a network
 
-Hive welcomes participation in whatever way suits your unique situation, so don’t feel intimidated or overwhelmed by this list of activities—this is what we expect of ourselves as a community, and your contribution will be valued, whatever form it takes.
+Hive welcomes participation in whatever way suits your unique situation, so don't feel intimidated or overwhelmed by this list of activities—this is what we expect of ourselves as a community, and your contribution will be valued, whatever form it takes.
 
 You are encouraged to use the variety of practices under continual development within the network as inspiration for your own programs. By exploring the approaches and tools you see your fellow Hive NYC participants engaging with and connecting with their projects, you can also grow your involvement within the community.
 

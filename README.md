@@ -1,10 +1,10 @@
 ![Hive NYC Logo](images/hive-logo.png)
-# How Hive NYC Works
+# Hive Learning Network NYC
 
 Hive NYC is a **network for learning** and a **network that learns**:
 * Contributors work together to make and learn, using an open source approach that generates opportunities to innovate and discover.
 
-The first of Mozilla’s growing community of city-wide networks, Hive NYC collaborators are aiming to revolutionize learning in New York city and beyond. Members learn with and from one another, share ideas and build solutions, developing the tools and practices to advance ***connected learning*** and ***web literacy***.
+The first of Mozilla's growing community of city-wide networks, Hive NYC collaborators are aiming to revolutionize learning in New York city and beyond. Members learn with and from one another, share ideas and build solutions, developing the tools and practices to advance **[connected learning](http://clalliance.org/)** and **[web literacy](https://webmaker.org/en-US/resources)**.
 
 ## Getting Involved
 

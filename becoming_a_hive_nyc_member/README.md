@@ -1,6 +1,6 @@
 # Becoming a Member
 
-Hive NYC is diverse—this variety feeds the innovation we generate and discover. For this reason there isn’t a typical Hive member—each stakeholder brings a different perspective and skill-set.
+Hive NYC is diverse—this variety feeds the innovation we generate and discover. For this reason there isn't a typical Hive member—each stakeholder brings a different perspective and skill-set.
 
 A number of key characteristics of Hive community members reflect our collective aims—ask yourself if these align with your own personal or organizational objectives:
 * Proactive interest in collaborating with others
@@ -12,7 +12,7 @@ A number of key characteristics of Hive community members reflect our collective
 * Understanding that technology and digital media skills empower young people to be active participants on the web
 * Appreciation for the power of communities to build solutions to challenges together
 
-We welcome you to join us—let’s transform the learning landscape for educators, mentors and youth. Together we can create an impact that will reach both across and far beyond New York city.
+We welcome you to join us—let's transform the learning landscape for educators, mentors and youth. Together we can create an impact that will reach both across and far beyond New York city.
 
 ## Working and Learning Together
 
@@ -48,3 +48,5 @@ The facilitating team at Hive NYC HQ oversees the network, providing the followi
 
 Hive NYC is a community supported by this infrastructure.
 For an overview of some past Hive NYC projects, see [Hive NYC Projects](../hive_nyc_projects/README.md).
+
+Check out **[10 Ways to Get Involved with Hive NYC](../becoming_a_hive_nyc_member/10_ways_to_get_involved_with_hive_nyc.html)**.

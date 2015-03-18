@@ -5,7 +5,7 @@ Like any beehive—in which productivity is dependent upon cooperation amongst i
 Hive NYC community members engage with the principles of connected learning in both program design and professional practice. Contributors use openly-networked collaboration that includes peer observation, resource sharing and process documentation.
 
 ## What Will Your Contribution Look Like?
-Hive NYC’s goals are to mobilize educators to adopt connected learning practices, to create more high-quality tools, content and curriculum, and to catalyze others to provide more connected learning and web literacy experiences, especially in under-served communities. The details and contours of how you go about helping Hive NYC to serve these goals is up to you.
+Hive NYC's goals are to mobilize educators to adopt connected learning practices, to create more high-quality tools, content and curriculum, and to catalyze others to provide more connected learning and web literacy experiences, especially in under-served communities. The details and contours of how you go about helping Hive NYC to serve these goals is up to you.
 
 The collaborative ethos of the network makes social ties between participants particularly important. The resulting interactions often involve advising, supporting, brokering relationships, exchanging expertise, co-designing solutions and sharing opportunities.
 
@@ -15,7 +15,7 @@ Hive NYC HQ provides an ***innovation infrastructure*** in support of community 
 
 By developing your contribution, you help to increase the reach of Hive NYC programs and amplify the network’s collective impact for change.
 
-Whatever role you anticipate having, it is important to point out that the practices of collaborative working and connected learning often present ***learning challenges** to new members. Similarly, working open can be an intimidating prospect, but is of immeasurable value to the community—we strive to maintain a supportive environment, so getting on-board need not be an overwhelming experience.
+Whatever role you anticipate having, it is important to point out that the practices of collaborative working and connected learning often present **learning challenges** to new members. Similarly, working open can be an intimidating prospect, but is of immeasurable value to the community—we strive to maintain a supportive environment, so getting on-board need not be an overwhelming experience.
 
 ### Every participant within Hive NYC is an educator and a learner.
 
@@ -44,4 +44,4 @@ Consider a hypothetical example of a Hive NYC engagement pathway:
 
 Ultimately this is a pathway that may lead to a role influencing the future direction and strategy of Hive NYC programs, acquiring funding and playing an integral role in supporting other members.
 
-If you’re interested in becoming a Lead Contributor, see the [leadership guide](../leadership_in_hive_nyc/README.md).
+If you're interested in becoming a Lead Contributor, see the [leadership guide](../leadership_in_hive_nyc/README.md).

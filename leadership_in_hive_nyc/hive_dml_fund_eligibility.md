@@ -1,12 +1,12 @@
 # Hive DML Fund Eligibility
 
-Hive NYC’s lead member organizations are non-profit, youth-facing organizations committed to working together to create learning experiences that connect young people to opportunity. Lead organizations within Hive NYC have access to the DML Fund.
+Hive NYC's lead member organizations are non-profit, youth-facing organizations committed to working together to create learning experiences that connect young people to opportunity. Lead organizations within Hive NYC have access to the DML Fund.
 
-The Fund’s grants support innovative Connected Learning projects that explore how digital media technologies are changing the way youth are learning, facilitate the interaction among Hive NYC members and spread learning innovations to a wide audience. The Hive DML Fund’s grants are awarded through a competitive process.
+The Fund's grants support innovative Connected Learning projects that explore how digital media technologies are changing the way youth are learning, facilitate the interaction among Hive NYC members and spread learning innovations to a wide audience. The Hive DML Fund's grants are awarded through a competitive process.
 
 Selected projects demonstrate the following characteristics:
-Learners specialize and gain mastery by pursuing their interests.
-Participants create artifacts that demonstrate a shared interest or purpose.
+* Learners specialize and gain mastery by pursuing their interests.
+* Participants create artifacts that demonstrate a shared interest or purpose.
 * Everyone shares authority and contributes expertise.
 * Resources are shared.
 * Youth have equitable access to programs and resources.
