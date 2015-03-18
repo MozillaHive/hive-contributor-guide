@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Why a Learning Network?](why_a_learning_network/README.md)
-   * [Vision and Goals](why_a_learning_network/five-year_goals.md)
+   * [Vision and Goals](why_a_learning_network/vision_and_goals.md)
 * [What does Hive NYC do?](what_does_hive_nyc_do/README.md)
    * [Hive Learning in Focus](what_does_hive_nyc_do/hive_learning_in_focus.md)
    * [Core Values and Principles](what_does_hive_nyc_do/core_values_and_principles.md)
