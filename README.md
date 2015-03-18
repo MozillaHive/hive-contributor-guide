@@ -1,3 +1,4 @@
+![Hive NYC Logo](images/hive-logo.png)
 # How Hive NYC Works
 
 Hive NYC is a **network for learning** and a **network that learns**:

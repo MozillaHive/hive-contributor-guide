@@ -17,4 +17,7 @@
        * [Hive DML Fund Eligibility](leadership_in_hive_nyc/hive_dml_fund_eligibility.md)
    * [Become a Hive NYC Leader](leadership_in_hive_nyc/become_a_hive_nyc_leader.md)
        * [Leadership Toolkit](leadership_in_hive_nyc/leadership_toolkit.md)
+* [Hive NYC Platforms](hive_nyc_platforms/README.md)
+* [Hive NYC Projects](hive_nyc_projects/README.md)
+* [Hive NYC Overview](hive_nyc_overview/README.md)
 
