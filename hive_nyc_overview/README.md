@@ -94,4 +94,4 @@ The Hive DML Fund’s grants are awarded through a competitive process. All prop
 
 Selected projects demonstrate an entrepreneurial approach to addressing the needs and interests of youth, in which learning with digital media is active and participatory; youth are motivated because they pursue subjects that are personally meaningful and technology connects communities of learners with shared interests. Effective digital media and Connected Learning programs respond to youth interests and create social structures and academic pathways that support youth as they acquire knowledge and experiment with/ master new skills.
 
-See [Hive DML Fund Eligibility](../leadership_in_hive_nyc/hive_dml_fund_eligibility/README.md) for more.
+See [Hive DML Fund Eligibility](../leadership_in_hive_nyc/hive_dml_fund_eligibility.html) for more.

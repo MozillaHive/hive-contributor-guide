@@ -34,4 +34,4 @@ Within the context of Hive NYC, leaders grow and new roles are discovered throug
 
 Leadership within Hive can arise within both formal and informal collaborations. As a lead contributor, you will not only be involved in delivering the objectives of connected learning and web literacy, but will also support other members in implementing, testing and spreading them, taking an active role in long-term planning—not just at the project level, but additionally taking an overview of the work the community does. Lead contributors are needed to identify challenges at the network level within Hive NYC—and to play a role in problem-solving on these issues.
 
-[Read more](../being_a_lead_contributor/README.md) about what you can expect within a recognized lead contributor role.
+[Read more](../leadership_in_hive_nyc/being_a_lead_contributor.html) about what you can expect within a recognized lead contributor role.
