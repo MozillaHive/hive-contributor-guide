@@ -10,7 +10,7 @@ See also:
 * [Reflections from a New Hive Member](http://hivenyc.org/2014/01/28/seven-months-hivenyc-new-member-share/)
 * [Exploring How Organizations “Interface” with Hive NYC](http://hivenyc.org/2013/08/31/exploring-how-organizations-interface-with-hive-nyc/)
 
-For an overview of the platforms and tools used within Hive NYC, see [Hive NYC Platforms](../../hive_nyc_platforms/README.md).
+For an overview of the platforms and tools used within Hive NYC, see [Hive NYC Platforms](../hive_nyc_platforms/README.md).
 
 **Helpful links**
 * [Hive Learning Networks’ Vision and Goals for Impact](http://hivenyc.org/2014/07/10/hive-learning-networks-vision-goals-and-conditions-for-impact/)

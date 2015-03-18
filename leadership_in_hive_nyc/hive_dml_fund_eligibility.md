@@ -12,10 +12,10 @@ Participants create artifacts that demonstrate a shared interest or purpose.
 * Youth have equitable access to programs and resources.
 * Learning environments link home, school, personal interests and community, connecting the multiple spaces where youth spend time, display interest, and learn.
 
-For more information and to read about funded projects visit [Hive Digital Media Learning Fund](http://www.nycommunitytrust.org/AboutTheTrust/CollaborativeFunds/HiveDigitalMediaLearningFund/tabid/620/Default.aspx) and [Hive NYC Overview](../../../hive_nyc_overview/README.md).
+For more information and to read about funded projects visit [Hive Digital Media Learning Fund](http://www.nycommunitytrust.org/AboutTheTrust/CollaborativeFunds/HiveDigitalMediaLearningFund/tabid/620/Default.aspx) and [Hive NYC Overview](../hive_nyc_overview/README.md).
 
 To be eligible to receive funding from NYCT, your organization must be a) vouched by Hive NYC HQ and b) receive financial clearance from New York Community Trust.
 
 Funds are typically released twice a year at the discretion of NYCT and travel grants are available once a year.
 
-For further information about the types of projects Hive NYC members pilot, see [Hive NYC Projects](../../../hive_nyc_projects/README.md).
+For further information about the types of projects Hive NYC members pilot, see [Hive NYC Projects](../hive_nyc_projects/README.md).
