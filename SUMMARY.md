@@ -12,13 +12,10 @@
 * [Your Contribution](your_contribution/README.md)
    * [Pathways to Participation](your_contribution/pathways_to_participation.md)
 * [Leadership in Hive NYC](leadership_in_hive_nyc/README.md)
-   * [What is Leadership in the Context of Hive NYC?](leadership_in_hive_nyc/what_is_leadership_in_the_context_of_hive_nyc.md)
    * [Being a Lead Contributor](leadership_in_hive_nyc/being_a_lead_contributor.md)
-       * [Benefits of the Lead Contributor Role](leadership_in_hive_nyc/benefits_of_the_lead_contributor_role.md)
        * [Hive DML Fund Eligibility](leadership_in_hive_nyc/hive_dml_fund_eligibility.md)
    * [Become a Hive NYC Leader](leadership_in_hive_nyc/become_a_hive_nyc_leader.md)
        * [Leadership Toolkit](leadership_in_hive_nyc/leadership_toolkit.md)
 * [Hive NYC Platforms](hive_nyc_platforms/README.md)
 * [Hive NYC Projects](hive_nyc_projects/README.md)
 * [Hive NYC Overview](hive_nyc_overview/README.md)
-
