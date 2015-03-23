@@ -11,13 +11,29 @@
 
 ## What does a successful member of the Hive community look like?
 As with any community, our learning network is strongest when a diversity of stakeholders participates. For this reason, success comes in many forms, but the following attributes often characterize the individuals who maximize on their connection to Hive:
-* Are in regular contact with the Hive/ other members
-* See connecting with members in different fields/ with different perspectives as an opportunity
-* Welcome differing perspectives on learning from their own
-* Are on the look-out for ways to exploit digital media and technology to unlock real opportunities for young people
-* Leverage the expertise, resources and tools within the community to improve their programs in terms of connected learning
-* Advocate for positive change throughout the NYC learning landscape
-* Make themselves available/ discoverable to other members
-* Suggest and pilot ambitious programs
+* Are in regular contact with the Hive/ other members.
+* See connecting with members in different fields as an opportunity.
+* Welcome differing perspectives on learning from their own.
+* Are on the look-out for ways to exploit digital media and technology to unlock real opportunities for young people.
+* Leverage the expertise, resources and tools within the community to make their programs more connected.
+* Advocate for positive change throughout the NYC learning landscape.
+* Make themselves available/ discoverable to other members.
+* Suggest and pilot ambitious programs.
 
-Contribution to Hive is strongest (and return on investment most beneficial for everyone) when there is an alignment between your organizational/ individual priorities, local context, funding prerogatives and the network's shared vision.
+Contribution to Hive is strongest (and return on investment most beneficial for everyone) when there is an alignment between your organizational/ individual priorities, local context, funding prerogatives and the network's [shared vision](../why_a_learning_network/hive_vision_and_goals.html).
+
+## Hive NYC Infrastructure and Resources
+
+The facilitating team at Hive NYC HQ oversees the network, providing the following systems and supports:
+* Community Calls
+* Monthly Meet-ups
+* Hive Pop-Ups and Events
+* Hive Charrettes
+* Access to Mozilla learning technology and expertise
+* Consultation and support in acquiring project funding
+* Communication channels, including social media and discussion forum
+* Help brokering partnerships with member organizations
+* Promotion for programs developed through Hive NYC
+
+For an overview of the platforms and tools used within Hive NYC, see [Hive NYC Platforms](../hive_nyc_platforms/README.md).
+
