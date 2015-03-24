@@ -1,6 +1,6 @@
 # What does Hive NYC do?
 
-What do we mean when we say that Hive NYC is a "network that learns" and a "network for learning"? Let's illustrate by looking at an example of Hive NYC methods in action: **the Pop-up**.
+What do we mean when we say that Hive NYC is a "network for learning" and a "network that learns"? Let's illustrate by looking at an example of Hive NYC methods in action: **the Pop-up**.
 
 At a Pop-up, Hive NYC's community of educators and mentors set up hands-on activities in one space at one time. Participants are free to explore each activity casually, with (often multi-generational) individuals playing around, making, talking and interacting.
 

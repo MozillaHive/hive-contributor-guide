@@ -50,7 +50,7 @@ As a Hive NYC community member, you are encouraged to explore any and all avenue
 
 If you want to make a strategic effort to develop you or your organization's involvement in Hive NYC, the support is available to help you to do that. A key aim within the network is to create and identify opportunities for you to increase your participation—and to celebrate your invaluable contributions, however they emerge.
 
-As a learning network, Hive educators teach, make and learn within the context of a larger, cross-disciplinary community of practice. The invitation to explore, participate (and eventually lead) within the network recognizes the myriad ways that individuals like you can contribute to, and benefit from, Hive NYC.
+Hive educators teach, make and learn within the context of a larger, cross-disciplinary community of practice. The invitation to explore, participate (and eventually lead) within the network recognizes the myriad ways that individuals like you can contribute to, and benefit from, Hive NYC.
 
 Are you interested in contributing to the community?
 Fill out the [form](https://docs.google.com/forms/d/1dWGAELcYQUWvjGmeh-VTPWbaxb7C3J5dp4lzSJsm-Gw)!
