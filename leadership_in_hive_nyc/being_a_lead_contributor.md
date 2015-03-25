@@ -1,4 +1,4 @@
-# Being a Lead Contributor
+# Lead Organizations
 
 Lead contributors model Hive NYC's core principles and practices across the city and within the field. Through access to the [Hive DML Fund](http://hivenyc.org/about-hive-nyc/hive-fund/), lead contributors play a strategic role in the planning and proposal generation for substantial projects.
 

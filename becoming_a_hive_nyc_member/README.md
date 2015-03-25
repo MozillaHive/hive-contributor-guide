@@ -1,4 +1,4 @@
-# Becoming a Member
+# Hive NYC Community
 
 Hive NYC is diverse—this variety feeds the innovation we generate and discover. There isn't a typical member—each stakeholder brings their own skills and perspective.
 

@@ -1,4 +1,4 @@
-# Your Hive NYC Contribution
+# Community Contribution
 
 Like any beehive—***in which productivity is dependent upon cooperation amongst individual bees***—the success of Hive NYC programs is driven by the interactions between community members. Over two hundred educators, designers, makers, artists, technologists, librarians and teachers across the five boroughs participate to help New York youth thrive.
 
