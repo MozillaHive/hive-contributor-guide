@@ -38,7 +38,7 @@ Here are some examples of leadership observed in Hive NYC:
 * Advocating for change within and outside of Hive NYC.
 * Attributing Hive NYC and its role.
 
-Acting as a leader within Hive is often about knowing ***how others can leverage you*** to benefit their own connected learning and web literacy projects. Hive NYC leaders design strategies and **take control of the conversation**.
+Acting as a leader is often about knowing ***how others can leverage you*** to benefit their own connected learning and web literacy projects. Hive NYC leaders design strategies and **take control of the conversation**.
 
 ### How Does Leadership Happen?
 
@@ -50,9 +50,9 @@ The Hive NYC ecosystem ***catalyzes*** not only new learning practices but also 
 Nurturing this model of leadership requires a community in which **trust** and **generosity** are valued at a premium.
 
 Leadership can arise within both formal and informal collaborations. As a lead contributor, you will:
-* deliver the objectives of connected learning and web literacy
+* ***deliver*** the objectives of connected learning and web literacy
 * ***support other members*** in implementing, testing and spreading them
-* take an active role in long-term planning
+* take an active role in ***long-term planning***
  * at the project level *and* with an overview of the work the community does.
 
 Lead contributors are needed to identify challenges at the network level within Hive NYC—and to get involved in problem-solving on these issues.

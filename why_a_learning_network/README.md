@@ -1,11 +1,11 @@
 ![Hive Learning Networks](../images/hive-header.png)
 # Why a Learning Network?
 
-A **network for learning**: *Providing youth with opportunities to learn valued skills through interest-driven production.*
+A **network for learning**: *Providing youth with opportunities to learn valued skills through interest-driven creation.*
 
 A **network that learns**: *Sharing resources and best practices, advancing professional development through collaboration.*
 
-In the digital age, the fundamental mode of operation and delivery is the network. By recognizing this, organizations and individuals can coordinate to work together, fostering dynamic, rewarding situations beyond what each could do alone. With a set of shared goals in mind, this work can generate solutions that address common challenges.
+In the digital age, the fundamental mode of operation and delivery is the network. By recognizing this, organizations and individuals can coordinate to work together, fostering dynamic, rewarding situations beyond what each could do alone. This work can generate solutions that address common challenges.
 
 In the networked context, learning is **connected**, **meaningful**, **easily accessed** and **in alignment with local interests**. Mentors and educators support youth in curating a diversity of skills to navigate *work and civic life*—this means moving beyond the bounds of traditional classroom environments.
 

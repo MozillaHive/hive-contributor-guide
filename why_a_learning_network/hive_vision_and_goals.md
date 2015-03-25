@@ -8,7 +8,7 @@ Over the next five years, Hive's goals are to:
 
 ![Hive Approach](../images/approach.png)
 
-When educators and organizations make connected learning central to their practices, so that more youth have access to relevant experiences and gain new digital skills, Hive will have realized its ambitious vision of educational transformation.
+When educators and organizations make connected learning central to their practices, and more youth have opportunities to gain new digital skills, Hive will have realized its ambitious vision of educational transformation.
 
 For more on these goals see [Hive Learning Networks’ Vision, Goals and Conditions for Impact](http://hivenyc.org/2014/07/10/hive-learning-networks-vision-goals-and-conditions-for-impact/).
 

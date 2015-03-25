@@ -84,7 +84,6 @@ Hive NYC programs primarily serve public school youth (middle and high school-ag
 * Youth Development and Leadership
 
 ## Hive Digital Media and Learning Fund
-Hive NYC’s lead member organizations are non-profit, youth-facing organizations committed to working together to create learning experiences that connect young people to opportunity. Lead organizations within Hive NYC have access to the DML Fund.
 
 The Hive Digital Media Learning Fund was seeded in 2010 by the John D. and Catherine T. MacArthur Foundation and The New York Community Trust as a collaboration of grantmaking organizations who promote adolescents’ learning through digital media. The Fund releases two Requests for Proposal (RFP) per year, available to members of the Hive NYC Learning Network (Hive NYC), to support their work via grants ranging in size from $500 to $250,000. In addition to MacArthur and The Trust, current donors include the Altman Foundation; Renate, Hans, and Maria Hofmann Trust; Mozilla Foundation; Stavros Niarchos Foundation; and David Rockefeller Fund.
 

@@ -1,6 +1,6 @@
 # Your Hive NYC Contribution
 
-Like any beehive—***in which productivity is dependent upon cooperation amongst individual bees***—the success of Hive NYC programs is driven by the interactions between community members. Over two hundred educators, designers, makers, artists, technologists, librarians and teachers across the five boroughs participate with the community to help New York youth thrive.
+Like any beehive—***in which productivity is dependent upon cooperation amongst individual bees***—the success of Hive NYC programs is driven by the interactions between community members. Over two hundred educators, designers, makers, artists, technologists, librarians and teachers across the five boroughs participate to help New York youth thrive.
 
 Hive NYC community members engage with the principles of connected learning in both program design and professional practice. Contributors use openly-networked collaboration that includes peer observation, resource sharing and process documentation.
 
@@ -32,7 +32,7 @@ Like the programs the community develops, leadership within Hive NYC is somethin
 
 As many members will testify, the trajectory of contribution within Hive NYC can be [non-linear](http://hivenyc.org/2014/01/28/seven-months-hivenyc-new-member-share/). The path you take will be [unique to you and your organization](http://hivenyc.org/2014/01/28/seven-months-hivenyc-new-member-share/).
 
-* Active community members naturally move between levels of participation in various ways, often by taking small steps or making what may seem like relatively trivial decisions.
+* Active community members naturally move between levels of participation, often by taking small steps or making what may seem like relatively trivial decisions.
  * *For example, a member asks via the Hive NYC Minigroup if anyone has a suitable space for a project, rather than e.g. arranging the space through their own organizational channels.*
 
 By increasingly placing work within the networked context of Hive NYC, members benefit from a deeper level of involvement. By developing your contribution, you help to increase the reach of Hive NYC programs and amplify the network’s collective impact for change.
@@ -46,7 +46,7 @@ Ultimately this is a pathway that may lead to a role influencing the future dire
 
 ## Pathways to Participation
 
-As a Hive NYC community member, you are encouraged to explore any and all avenues you feel will allow you to participate as fully as possible.
+***As a Hive NYC community member, you are encouraged to explore any and all avenues you feel will allow you to participate as fully as possible.***
 
 If you want to make a strategic effort to develop you or your organization's involvement in Hive NYC, the support is available to help you to do that. A key aim within the network is to create and identify opportunities for you to increase your participation—and to celebrate your invaluable contributions, however they emerge.
 

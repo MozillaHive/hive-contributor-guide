@@ -2,7 +2,7 @@
 
 Choose from the following suggested ways to get started with Hive NYC, then when you’re ready, connect with us via our [form](http://bit.ly/hivenyc_getinvolved):
 * **Join a Monthly Community Call**
- * Introduce yourself, hear (and contribute to) discussions about solutions to common challenges. See the [Community Call Etherpad](https://hive.etherpad.mozilla.org/hivecall2)
+ * Introduce yourself, hear (and contribute to) discussions about solutions to challenges. See the [Community Call Etherpad](https://hive.etherpad.mozilla.org/hivecall2)
 * **Attend or Host a Meet-up**
  * Hive contributors get together in person to share ideas and hone skills—you can [attend or host a meet-up](http://bit.ly/Hivemeetup) to introduce your place and practice.
 * **Sign up for Hive Office Hours**
