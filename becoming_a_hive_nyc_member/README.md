@@ -16,7 +16,7 @@ As a contributing Hive NYC organization or individual community member, you will
 
 Hive projects demonstrate a commitment to *action and design*. Contributors make real solutions to problems, addressing challenges that stretch beyond the needs and capabilities of their individual organizations.
 
-Hive members thrive by *sharing knowledge, learning outcomes and opportunities* with one another. We use a variety of engagement routes and communication channels so that you are able to choose those methods that fit best within your own programs. See the [Platforms](../hive_nyc_platforms/README.md) overview for more.
+Hive members thrive by *sharing knowledge, learning outcomes and opportunities* with one another. We use a variety of engagement routes and communication channels so that you are able to choose those methods that fit best within your own programs. 
 
 For examples of the diverse ways that Hive NYC members support and interact with one another see: [Hive Research Lab draft framework—Hive Learning Network Social Ties](https://drive.google.com/file/d/0B_VM3QApL9XfSm12dnJZN1dFRWM/view)
 

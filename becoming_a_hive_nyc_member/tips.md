@@ -35,5 +35,5 @@ The facilitating team at Hive NYC HQ oversees the network, providing the followi
 * Help brokering partnerships with member organizations
 * Promotion for programs developed through Hive NYC
 
-For an overview of the platforms and tools used within Hive NYC, see [Hive NYC Platforms](../hive_nyc_platforms/README.md).
+For an overview of the platforms and tools used within Hive NYC, see [What does Hive NYC do?](../what_does_hive_nyc_do/README.md).
 

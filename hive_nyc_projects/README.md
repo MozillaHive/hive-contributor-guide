@@ -17,3 +17,5 @@ A snapshot of a few past projects to give you a flavor of what Hive NYC does:
 Hive NYC acts as a partner to member organizations, rather than a funder—however, Hive membership affords you access to a guided funding process for your connected learning projects.
 
 For more see the [portfolio](http://hivenyc.org/portfolio).
+
+
