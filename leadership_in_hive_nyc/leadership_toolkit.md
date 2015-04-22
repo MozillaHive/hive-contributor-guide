@@ -16,3 +16,4 @@ Hive NYC has worked closely with colleagues at Mozilla to develop tools and plat
 * **Affinity Group**
  * Help to generate new strategies on specific challenges.
 
+See [What does Hive NYC do?](../what_does_hive_nyc_do/README.md) for more on these.

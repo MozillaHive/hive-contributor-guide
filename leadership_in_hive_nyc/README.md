@@ -33,10 +33,12 @@ Here are some examples of leadership observed in Hive NYC:
 * Disseminating evaluation outcomes.
 * Being ambitious and taking risks.
 * Openly sharing information about youth needs/interests.
-* Brokering a partnership members.
+* Brokering a partnership between members.
 * Refining a tool so that others can use it.
 * Advocating for change within and outside of Hive NYC.
 * Attributing Hive NYC and its role.
+
+> ***[GadgITERATION](http://hivenyc.org/portfolio/gadgiteration/)***<br/>![GadgITERATION](http://hivenyc.org/wp-content/uploads/3KDg5U3DkpE4mgbxqD5jKagtsS_p2uvNQqw8QD1TEkaRhF9cCh2hOiDBx0GPuhDgsww1113-h507.jpg)<br/>GadgITERATION uses the open source NoiseMaker microcontroller to explore computer engineering and interaction. This program generates productive collaboration between youth identifying as artists (MOUSE teens) and techies (Parsons Scholars), with peers sharing skills and knowledge across technology and design. By undertaking evaluation and reflection on the project, [documenting](http://www.gadgiteration.org/wp-content/uploads/2013/06/Final_8-8.pdf) its outcomes, Parsons Design and Technology (D+T) team make their learning gains accessible to other Hive members.
 
 Acting as a leader is often about knowing ***how others can leverage you*** to benefit their own connected learning and web literacy projects. Hive NYC leaders design strategies and **take control of the conversation**.
 

@@ -13,4 +13,6 @@ You are invited to join our collective effort to:
 * new **ideas**, **tools** and **approaches to learning**
 * **connecting young people to opportunity** through productive, social experiences.
 
-Hive NYC creates a distributed learning laboratory where innovations are both developed and spread. Activities take place in multiple locations across the city, involving a diversity of participants—all focused on making learning more connected. ***This is a network of people and opportunities.***
+Hive NYC creates a distributed learning laboratory where innovations are both developed and spread. Activities take place in multiple locations across the city, involving a diversity of participants—all focused on making learning more connected.
+
+***Hive NYC is a network of people and opportunities.***

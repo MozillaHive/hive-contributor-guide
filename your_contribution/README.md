@@ -16,7 +16,7 @@ Contributors often find new colleagues and co-conspirators outside of their orga
 
 ### Every participant within Hive NYC is an educator and a learner.
 
-This model of interaction allows youth to curate their own learning experiences. It also creates opportunities for contributors to experience and discover new roles—including leadership.
+This model of interaction allows youth to curate their own learning pathways. It also creates opportunities for contributors to experience and discover new roles—including leadership.
 
 The following three general tiers of engagement have been identified:
 * **Explore**
@@ -38,9 +38,9 @@ As many members will testify, the trajectory of contribution within Hive NYC can
 By increasingly placing work within the networked context of Hive NYC, members benefit from a deeper level of involvement. By developing your contribution, you help to increase the reach of Hive NYC programs and amplify the network’s collective impact for change.
 
 Consider a hypothetical example of a Hive NYC engagement pathway:
-> Community member Mary starts getting involved with Hive NYC by joining the mailing list. Mary also begins to attend meet-ups, calls and events, through which she hears about activities she thinks her organization could benefit from (and contribute to) by taking part—she reaches out and participates. Mary provides feedback on another member’s project or offers advice on an aspect she happens to have expertise in. Through these exchanges, Mary starts a partnership with another member or contributes resources to their project.
+> Community member Mary starts getting involved with Hive NYC by joining the mailing list. Mary also begins to attend meet-ups, calls and events, through which she hears about activities she thinks her organization could benefit from (and contribute to) by taking part—she reaches out and participates. Mary provides feedback on another member’s project and offers advice on an aspect she happens to have expertise in. Through these exchanges, Mary starts a partnership with another member and contributes resources to their project.
 
-> Inspired by the various developments she hears about within Hive NYC, Mary continues to incorporate technology, production and social cooperation into her programs, reporting back with results and engaging in discussions. Mary also introduces another Hive NYC member to a colleague/ other member, or someone else in the learning community, with reference to a practice under development. Having observed and participated in a range of innovative projects, Mary suggests a project she thinks may be a new idea.
+> Inspired by the various developments she hears about within Hive NYC, Mary continues to incorporate technology, production and social cooperation into her programs, reporting back with results and engaging in discussions. Mary also introduces another Hive NYC member to a colleague in the learning community, with reference to a practice under development. Having observed and participated in a range of innovative projects, Mary suggests a project she thinks may be a new idea.
 
 Ultimately this is a pathway that may lead to a role influencing the future direction and strategy of Hive NYC programs, acquiring funding and playing an integral role in supporting other members.
 
