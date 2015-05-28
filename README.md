@@ -1,18 +1,18 @@
 ![Hive NYC Logo](images/hive-logo.png)
 # Hive Learning Network NYC
 
-Hive NYC is a **network for learning** and a **network that learns**:
-* ***We work together to make and learn, using an open source approach that generates opportunities to innovate and discover.***
+Hive NYC is a peer-to-peer learning network. We:
+* **develop**, **share** and **scale**
+* new **ideas**, **tools** and **approaches to learning**,
+* **unlocking opportunity for young people**
+* through **problem-solving**, **creativity** and **digital skills**.
 
-The first of Mozilla's growing community of city-wide networks, Hive NYC collaborators are aiming to revolutionize learning in New York City and beyond. Hive programs advance **[connected learning](http://clalliance.org/)** and **[web literacy](https://webmaker.org/en-US/resources)**.
+The first of Mozilla's growing community of city-wide networks, aiming to revolutionize learning in New York City and beyond. Hive NYC programs advance **[connected learning](http://clalliance.org/)** and **[web literacy](https://webmaker.org/en-US/resources)**.
 
 ## Get Involved
 
-You are invited to join our collective effort to:
-* **develop**, **share** and **scale**
-* new **ideas**, **tools** and **approaches to learning**
-* **connecting young people to opportunity** through productive, social experiences.
+Hive NYC acts as a distributed learning laboratory where innovations are both developed and spread. Activities take place in multiple locations across the city and involve a diversity of participants. We invest in educators' ability to create digitally rich programs for youth, embedding innovations across organizations.
 
-Hive NYC creates a distributed learning laboratory where innovations are both developed and spread. Activities take place in multiple locations across the city, involving a diversity of participants—all focused on making learning more connected.
+At Hive NYC, community members learn together, network with each other, consult, advise, discuss best practices and pedagogies, try out new technologies, engage in funded partnerships, design charettes and events, participate in affinity groups and cooperate to solve problems. Most importantly, **we collaborate to design and implement transformative learning opportunities for and with NYC youth**.
 
-***Hive NYC is a network of people and opportunities.***
+You are invited to join our community.

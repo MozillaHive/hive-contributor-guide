@@ -1,4 +1,33 @@
-# Hive Vision and Goals
+# Core Values and Principles
+
+Hive NYC is a dynamic movement in which the community members together determine the future direction the network takes. However, we share a commitment to advance the adoption of digital skills and web literacy through connected learning—in both development and practice.
+
+Hive NYC programs are:
+* **Innovative**
+ * We originate and explore creative new approaches to learning.
+* **Meaningful**
+ * We collaborate on a common vision to unlock real-world opportunities.
+* **Participatory**
+ * We build solutions together on challenges stimulated by learner (and community) interest.
+* **Open**
+ * Our inclusive distributed network provides equitable access to ordinarily under-served communities.
+
+**Hive NYC contributors**:
+* Create and try out new tools and practices.
+* Connect young people to relevant academic, work or civic opportunity.
+* Engage youth by incorporating self-direction into learning experiences.
+* Design opportunities to learn valued skills and competencies.
+* Support and encourage collaboration between members (and youth).
+* Build, test and spread solutions via iterative, constructive learning activities.
+* Learn in a social context by fostering contribution, cooperation and interaction.
+* Share resources, opportunities and learning gains.
+* Leverage technology and digital media to equip youth to fully participate on the web.
+* Work open, preserving interoperability and distributed access to resources.
+* Learn together—as a network.
+
+Hive welcomes participation in whatever way suits your unique situation—your contribution will be valued, whatever form it takes.
+
+## Vision and Goals
 
 Over the next five years, Hive's goals are to:
 * **Mobilize** more educators to adopt [connected learning](http://clalliance.org/) practices and teach [web literacy](https://webmaker.org/en-US/resources) within a growing constellation of Hive Learning Networks.
@@ -12,13 +41,8 @@ When educators and organizations make connected learning central to their practi
 
 For more on these goals see [Hive Learning Networks’ Vision, Goals and Conditions for Impact](http://hivenyc.org/2014/07/10/hive-learning-networks-vision-goals-and-conditions-for-impact/).
 
+## Citizens of the Web
 
-## Making the Web
+As part of its mission to stimulate openness and innovation, Mozilla shepherds Hive Learning Networks as a global community of people empowering each other to unlock opportunity in the digital world. Hive NYC acts as a local delivery mechanism for this ambitious movement, making and testing tools and practices in collaboration with stakeholders throughout the city.
 
-As part of its mission to promote openness, opportunity and innovation, Mozilla shepherds Hive Learning Networks as a global community of educators and mentors empowering each other to learn, teach and make the web. Hive NYC acts as a local delivery mechanism for this ambitious movement, making and testing tools and practices in collaboration with stakeholders throughout the city.
-
-As the flagship program in the Hive learning networks ecosystem, Hive NYC is a model for others hoping to build similar communities of practice for connected learning and web literacy in cities around the world.
-
-Members have access to a range of services and supports, including various communication channels, Mozilla's educational technology products and expertise, technical and social platforms that advance collective learning and innovation, supported routes to funding options, brokered connections to fellow organizations, dedicated consultation and more.
-
-
+As the flagship program in the Hive Learning Networks ecosystem, Hive NYC is a model for others hoping to build similar communities of practice.
