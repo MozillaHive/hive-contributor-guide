@@ -1,12 +1,12 @@
-# Who are the Hive NYC Community Members?
+# Hive NYC Community
+
+![Teacher Learner](../images/teacherlearner.jpeg)
+
+## Every participant within Hive NYC is an educator and a learner
 
 From code clubs to science museums, a diverse range of organizations from across New York City participate in Hive—this variety feeds the innovation we generate and discover. See our [community page](http://hivenyc.org/community) for current members.
 
 There isn't a typical member—each stakeholder brings their own skills and perspective.
-
-## Every participant within Hive NYC is an educator and a learner
-
-![Teacher Learner](../images/teacherlearner.jpeg)
 
 As a contributing Hive NYC organization or individual community member, you will **actively seek multiple opportunities to experiment and co-produce with other members** (especially those with whom you would not naturally connect). In doing so your projects will sustain the Hive ecosystem as an *incubator for invention*.
 

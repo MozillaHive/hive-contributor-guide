@@ -6,16 +6,12 @@ Additionally, through travel grants, Hive NYC’s online portfolio gallery, Mozi
 
 *Hive NYC does not itself provide funding, but HQ and lead contributors work in collaboration with community members to broker quality partnerships that secure funding for projects within the connected learning ethos.*
 
-> ***[Collect, Construct, Change](http://hivenyc.org/portfolio/collect-construct-and-change-c3/)***<br/>![Collect Construct Change](http://hivenyc.org/wp-content/uploads/C3-Camp-w-Aircasting-300x300.jpg)<br/>New York Hall of Science led the Collect, Construct, Change project in partnership with Bank Street College of Education, City Lore and Habitat Map. Participants developed an early iteration mobile tool to collect local environmental data such as carbon monoxide levels, humidity and noise pollution.
-
 Whether you're a small start-up or a storied institution, being a lead contributor gives you the opportunity to influence the future direction of learning in NYC.
 
 Hive NYC enjoys a unique set of powerful assets, allowing lead members to build the kind of trust that:
 * cultivates long-term relationships
 * enables youth to flourish
 * generates a growing body of work that demonstrates the value of connected learning.
-
-> ***[Race to the White House](http://hivenyc.org/portfolio/race-to-the-white-house/)***<br/>![Race to the White House](http://hivenyc.org/wp-content/uploads/Race-to-the-White-House-GK-300x300.jpg)<br/>In a Global Kids and Brooklyn Public Library collaboration, youth used GPS technology to engage on policy issues. Geocaches placed in physical locations created a digital scavenger hunt, with participants expressing a vote on the importance of each issue by moving the items closer to or further from the White House.
 
 The programs you pilot as a Hive NYC leader will be subject to **extensive exposure** in the context of Mozilla's global network. Lead projects exemplify and showcase our work.
 

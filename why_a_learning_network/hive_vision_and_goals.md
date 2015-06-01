@@ -1,6 +1,6 @@
 # Core Values and Principles
 
-Hive NYC is a dynamic movement in which the community members together determine the future direction the network takes. However, we share a commitment to advance the adoption of digital skills and web literacy through connected learning—in both development and practice.
+Hive NYC is a dynamic movement in which the community members together determine the future direction the network takes. However, we share a commitment to advance the adoption of digital skills and web literacy through connected learning.
 
 Hive NYC programs are:
 * **Innovative**
@@ -15,7 +15,7 @@ Hive NYC programs are:
 **Hive NYC contributors**:
 * Create and try out new tools and practices.
 * Connect young people to relevant academic, work or civic opportunity.
-* Engage youth by incorporating self-direction into learning experiences.
+* Engage youth by incorporating self-direction and hands-on making into learning experiences.
 * Design opportunities to learn valued skills and competencies.
 * Support and encourage collaboration between members (and youth).
 * Build, test and spread solutions via iterative, constructive learning activities.
@@ -41,8 +41,3 @@ When educators and organizations make connected learning central to their practi
 
 For more on these goals see [Hive Learning Networks’ Vision, Goals and Conditions for Impact](http://hivenyc.org/2014/07/10/hive-learning-networks-vision-goals-and-conditions-for-impact/).
 
-## Citizens of the Web
-
-As part of its mission to stimulate openness and innovation, Mozilla shepherds Hive Learning Networks as a global community of people empowering each other to unlock opportunity in the digital world. Hive NYC acts as a local delivery mechanism for this ambitious movement, making and testing tools and practices in collaboration with stakeholders throughout the city.
-
-As the flagship program in the Hive Learning Networks ecosystem, Hive NYC is a model for others hoping to build similar communities of practice.
