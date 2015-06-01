@@ -8,7 +8,7 @@ From code clubs to science museums, a diverse range of organizations from across
 
 There isn't a typical member—each stakeholder brings their own skills and perspective.
 
-As a contributing Hive NYC organization or individual community member, you will **actively seek multiple opportunities to experiment and co-produce with other members** (especially those with whom you would not naturally connect). In doing so your projects will sustain the Hive ecosystem as an *incubator for invention*.
+As a contributing Hive NYC organization or individual, you will **actively seek multiple opportunities to experiment and co-produce with other members** (especially those with whom you would not naturally connect). In doing so your projects will sustain the Hive ecosystem as an *incubator for invention*.
 
 > ***[Making Waves: The Science of Sound](http://hivenyc.org/portfolio/making-waves-science-sound/)***<br/>![Making Waves: The Science of Sound](http://hivenyc.org/wp-content/uploads/IMG_4160-300x300.jpg)<br/>Lower Eastside Girls Club and Willie Mae Rock Camp partnered on an innovative, experiential program using music to deepen understanding of the science of sound, engaging youth creatively on their interests.
 

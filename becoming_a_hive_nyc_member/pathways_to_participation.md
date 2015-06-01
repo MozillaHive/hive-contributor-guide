@@ -20,7 +20,7 @@ The following three general tiers of engagement with Hive NYC have been identifi
 
 These are not prescriptive, fixed roles—they describe the [patterns of behavior observed in existing participants](http://hivenyc.org/2013/08/31/exploring-how-organizations-interface-with-hive-nyc/). Hive NYC is a self-organizing community and each member connects differently. As many members will testify, the trajectory of contribution within Hive NYC can be [non-linear](http://hivenyc.org/2014/01/28/seven-months-hivenyc-new-member-share/). The path you take will be [unique to you and your organization](http://hivenyc.org/2014/01/28/seven-months-hivenyc-new-member-share/).
 
-Hive educators teach, make and learn within the context of a larger, cross-disciplinary community of practice. The invitation to explore, participate, and eventually lead, within the network recognizes the myriad ways that individuals like you can contribute to, and benefit from, this network.
+Hive educators teach, make and learn within the context of a larger, cross-disciplinary community of practice. The invitation to explore, participate, and eventually lead, within the network recognizes the myriad ways that individuals like you can contribute to—and benefit from—the network.
 
 Are you interested in joining the community?
 Fill out the [form](https://docs.google.com/forms/d/1dWGAELcYQUWvjGmeh-VTPWbaxb7C3J5dp4lzSJsm-Gw)!
