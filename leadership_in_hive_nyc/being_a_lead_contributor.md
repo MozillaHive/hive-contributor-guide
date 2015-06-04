@@ -1,8 +1,14 @@
 # Benefits of being a Lead Contributor
 
+<!--tighten all and check for rep with main lead section-->
+
+![Post Its](../images/post-its.jpg)
+
 Lead organizations have **access to funding to develop, pilot and scale substantial connected learning and web literacy projects** with Hive NYC's vetted stakeholders and partners, including NYC DOE Office of Post Secondary Readiness and the Hive Digital Media Learning Fund.
 
 Additionally, through travel grants, Hive NYC’s online portfolio gallery, Mozilla's communication networks and the ability to participate in an extensive program of events, ***your ideas, concerns and discoveries will be shared and championed on the global stage***.
+
+<!--rep-->
 
 *Hive NYC does not itself provide funding, but HQ and lead contributors work in collaboration with community members to broker quality partnerships that secure funding for projects within the connected learning ethos.*
 
