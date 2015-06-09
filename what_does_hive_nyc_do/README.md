@@ -9,7 +9,7 @@ You are invited to [get involved](#get-involved).
 
 ### Exchanges
 
-Hive NYC facilitates a range of **live forums** for community members to network, as well as regular activities and events such as design charettes. We support the **professional development** of community members through workshops and trainings—participants are encouraged to share their own expertise and resources.
+Hive NYC facilitates a range of **live forums** for community members to network, as well as regular activities and events such as design charettes. We support the **professional development** of community members through workshops and trainings—participants are encouraged to share their own expertise.
 
 ### Experiments
 
