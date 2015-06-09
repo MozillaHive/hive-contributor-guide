@@ -1,6 +1,6 @@
 # Leadership in Hive NYC
 
-While Hive NYC HQ oversees the infrastructure that keeps the network functioning, **lead member organizations ensure Hive NYC's ambitious goals have authenticity and meaning on the ground**.
+**Lead member organizations ensure Hive NYC's ambitious goals have authenticity and meaning on the ground**.
 
 Lead contributors are entrusted to develop and scale innovative project ideas, representing Hive Learning Networks on the local, national and global stage.
 
@@ -13,7 +13,7 @@ In Hive NYC, leadership [takes many forms](http://hivenyc.org/2014/11/24/leaders
 
 Hive NYC leadership is **distributed**.
 
-### Leadership Behavior and Practices:
+### Examples of leadership behavior:
 * Giving constructive feedback
 * Connecting someone to the network
 * Sharing resources
@@ -34,15 +34,12 @@ Hive NYC leadership is **distributed**.
 * Advocating for change within and outside of Hive NYC
 * Attributing Hive NYC and its role
 
-These are examples of the types of activity lead members engage in, but there is no fixed way to act as a leader—it's often about knowing ***how others can leverage you*** to benefit their own projects. Hive NYC leaders design strategies and **take control of the conversation**.
+Leadership in Hive NYC is often about knowing ***how others can leverage you*** to benefit their own projects and making yourself available for this to happen. Our lead members identify challenges at the network level, design strategies and **take control of the conversation**.
 
-### How Does Leadership Happen?
+### How Leadership Happens
 
-The Hive NYC ecosystem ***catalyzes*** not only new learning practices but also other ***networked behaviors***—including:
-* leadership approaches that are connected, distributed and effective in serving the community's goals.
+The Hive NYC ecosystem *catalyzes* networked behaviors, including **leadership approaches that are connected, distributed and effective in serving the community's goals**.
 
-Nurturing this model of leadership requires a context in which **trust** and **generosity** are valued at a premium. Here, leadership can arise within both formal and informal collaborations.
+Nurturing this model of leadership requires a context in which **trust** and **generosity** are valued at a premium. Leadership can arise within both formal and informal collaborations.
 
-Lead contributors are needed to identify challenges at the network level within Hive NYC—and to help address these issues.
-
-<!--tighten-->
+See the [community page](http://hivenyc.org/community/) for current Hive NYC leaders.
