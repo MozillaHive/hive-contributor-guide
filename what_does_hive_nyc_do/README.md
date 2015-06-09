@@ -15,8 +15,6 @@ Hive NYC facilitates a range of **live forums** for community members to network
 
 Hive NYC members use openly-networked collaboration that includes co-designing programs—creating models that can be replicated and remixed to maximize on our collective impact. Professional practice typically involves peer observation, resource sharing and process documentation.
 
-<!--![Hive Learning Networks](../images/hive-codesign.jpg)-->
-
 ### Exemplars
 
 Ongoing discoveries inform our shared learning journey. See the [portfolio](http://hivenyc.org/portfolio/) for past projects.
